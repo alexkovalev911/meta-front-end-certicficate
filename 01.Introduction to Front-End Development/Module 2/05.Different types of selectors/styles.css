@@ -1,0 +1,27 @@
+p {
+    color: blue;
+}
+
+#latest {
+    color: purple;
+}
+
+.navigation {
+    color: brown;
+}
+
+p.introduction {
+    color: darkblue;
+}
+
+#blog h1 {
+    color: green;
+}
+
+#blog div h1 {
+    color: red;
+}
+
+#blog > h1 {
+    color: yellow;
+  }
